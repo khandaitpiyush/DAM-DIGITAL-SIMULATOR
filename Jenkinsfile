@@ -1,5 +1,5 @@
 // Unified DevOps Automation — Autonomous 9-Stage CI/CD Pipeline
-// Project: DAM-DIGITAL-SIMULATOR | Target: Kubernetes (Azure AKS)
+// Project: DAM-DIGITAL-SIMULATOR | Target: Azure Kubernetes Service (AKS)
 
 pipeline {
     agent {
